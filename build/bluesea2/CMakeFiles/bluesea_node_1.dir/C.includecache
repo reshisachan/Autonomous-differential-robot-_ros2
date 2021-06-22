@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/supro/supro_ws/src/hardware_pkgs/bluesea-ros2/src/uart.c
+stdlib.h
+-
+stdio.h
+-
+fcntl.h
+-
+errno.h
+-
+string.h
+-
+linux/termios.h
+-
+

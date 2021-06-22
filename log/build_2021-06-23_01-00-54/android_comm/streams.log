@@ -1,0 +1,20 @@
+[0.122s] Invoking command in '/home/supro/supro_ws/build/android_comm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/supro/supro_ws/install/turtlebot3_teleop:/home/supro/supro_ws/install/nav2_gazebo_spawner:/home/supro/supro_ws/install/mapping_publisher /usr/bin/cmake --build /home/supro/supro_ws/build/android_comm -- -j8 -l8
+[0.756s] Invoked command in '/home/supro/supro_ws/build/android_comm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/supro/supro_ws/install/turtlebot3_teleop:/home/supro/supro_ws/install/nav2_gazebo_spawner:/home/supro/supro_ws/install/mapping_publisher /usr/bin/cmake --build /home/supro/supro_ws/build/android_comm -- -j8 -l8
+[0.888s] Invoking command in '/home/supro/supro_ws/build/android_comm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/supro/supro_ws/install/turtlebot3_teleop:/home/supro/supro_ws/install/nav2_gazebo_spawner:/home/supro/supro_ws/install/mapping_publisher /usr/bin/cmake --install /home/supro/supro_ws/build/android_comm
+[0.933s] -- Install configuration: ""
+[0.933s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/ament_index/resource_index/package_run_dependencies/android_comm
+[0.933s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/ament_index/resource_index/parent_prefix_path/android_comm
+[0.934s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/android_comm/environment/ament_prefix_path.sh
+[0.934s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/android_comm/environment/ament_prefix_path.dsv
+[0.934s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/android_comm/environment/path.sh
+[0.935s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/android_comm/environment/path.dsv
+[0.935s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/android_comm/local_setup.bash
+[0.935s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/android_comm/local_setup.sh
+[0.936s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/android_comm/local_setup.zsh
+[0.936s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/android_comm/local_setup.dsv
+[0.936s] -- Installing: /home/supro/supro_ws/install/android_comm/share/android_comm/package.dsv
+[0.937s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/ament_index/resource_index/packages/android_comm
+[0.937s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/android_comm/cmake/android_commConfig.cmake
+[0.938s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/android_comm/cmake/android_commConfig-version.cmake
+[0.938s] -- Up-to-date: /home/supro/supro_ws/install/android_comm/share/android_comm/package.xml
+[0.953s] Invoked command in '/home/supro/supro_ws/build/android_comm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/supro/supro_ws/install/turtlebot3_teleop:/home/supro/supro_ws/install/nav2_gazebo_spawner:/home/supro/supro_ws/install/mapping_publisher /usr/bin/cmake --install /home/supro/supro_ws/build/android_comm

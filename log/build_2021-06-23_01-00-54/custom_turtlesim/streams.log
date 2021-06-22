@@ -1,0 +1,45 @@
+[0.096s] Invoking command in '/home/supro/supro_ws/build/custom_turtlesim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/supro/supro_ws/install/turtlebot3_teleop:/home/supro/supro_ws/install/nav2_gazebo_spawner:/home/supro/supro_ws/install/mapping_publisher /usr/bin/cmake --build /home/supro/supro_ws/build/custom_turtlesim -- -j8 -l8
+[0.698s] [ 33%] Built target initial_pose
+[0.698s] [ 66%] Built target goal_publish
+[0.699s] [100%] Built target subscribe_laser
+[0.721s] Invoked command in '/home/supro/supro_ws/build/custom_turtlesim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/supro/supro_ws/install/turtlebot3_teleop:/home/supro/supro_ws/install/nav2_gazebo_spawner:/home/supro/supro_ws/install/mapping_publisher /usr/bin/cmake --build /home/supro/supro_ws/build/custom_turtlesim -- -j8 -l8
+[0.898s] Invoking command in '/home/supro/supro_ws/build/custom_turtlesim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/supro/supro_ws/install/turtlebot3_teleop:/home/supro/supro_ws/install/nav2_gazebo_spawner:/home/supro/supro_ws/install/mapping_publisher /usr/bin/cmake --install /home/supro/supro_ws/build/custom_turtlesim
+[0.927s] -- Install configuration: ""
+[0.928s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//worlds
+[0.930s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//worlds/dolly_empty.world
+[0.932s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//worlds/dolly_walls.world
+[0.932s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//worlds/map.world
+[0.933s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//launch
+[0.934s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//launch/arm.launch.py
+[0.934s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//launch/turtlesim.launch.py
+[0.934s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//launch/map_odom.launch.py
+[0.937s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//launch/dolly.launch.py
+[0.938s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//rviz
+[0.939s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//rviz/view.rviz
+[0.939s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models
+[0.939s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/meshes
+[0.940s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/meshes/r200.dae
+[0.940s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/meshes/right_tire.dae
+[0.940s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/meshes/left_tire.dae
+[0.941s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/meshes/lds.dae
+[0.943s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/model.config
+[0.944s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/model.sdf
+[0.944s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/lib/custom_turtlesim/subscribe_laser
+[0.945s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/lib/custom_turtlesim/goal_publish
+[0.946s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/lib/custom_turtlesim/initial_pose
+[0.946s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/ament_index/resource_index/package_run_dependencies/custom_turtlesim
+[0.946s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/ament_index/resource_index/parent_prefix_path/custom_turtlesim
+[0.946s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/environment/ament_prefix_path.sh
+[0.947s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/environment/ament_prefix_path.dsv
+[0.947s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/environment/path.sh
+[0.948s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/environment/path.dsv
+[0.949s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/local_setup.bash
+[0.950s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/local_setup.sh
+[0.952s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/local_setup.zsh
+[0.952s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/local_setup.dsv
+[0.953s] -- Installing: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/package.dsv
+[0.956s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/ament_index/resource_index/packages/custom_turtlesim
+[0.957s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/cmake/custom_turtlesimConfig.cmake
+[0.963s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/cmake/custom_turtlesimConfig-version.cmake
+[0.964s] -- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/package.xml
+[1.002s] Invoked command in '/home/supro/supro_ws/build/custom_turtlesim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/supro/supro_ws/install/turtlebot3_teleop:/home/supro/supro_ws/install/nav2_gazebo_spawner:/home/supro/supro_ws/install/mapping_publisher /usr/bin/cmake --install /home/supro/supro_ws/build/custom_turtlesim

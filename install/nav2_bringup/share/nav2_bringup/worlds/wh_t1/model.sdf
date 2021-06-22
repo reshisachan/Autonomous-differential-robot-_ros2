@@ -1,0 +1,454 @@
+<?xml version='1.0'?>
+<sdf version='1.7'>
+  <model name='wh_t1'>
+    <model name='WH1'>
+      <pose>6.84785 0.374114 0 0 -0 0</pose>
+      <link name='Wall_1'>
+        <collision name='Wall_1_Collision'>
+          <geometry>
+            <box>
+              <size>80.175 0.15 5</size>
+            </box>
+          </geometry>
+          <pose>0 0 2.5 0 -0 0</pose>
+        </collision>
+        <visual name='Wall_1_Visual'>
+          <pose>0 0 2.5 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>80.175 0.15 5</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/CeilingTiled</name>
+            </script>
+            <ambient>0.560784 0.34902 0.00784314 1</ambient>
+          </material>
+          <meta>
+            <layer>0</layer>
+          </meta>
+        </visual>
+        <pose>0.065319 24.4551 0 0 -0 -0.00017</pose>
+      </link>
+      <link name='Wall_25'>
+        <collision name='Wall_25_Collision'>
+          <geometry>
+            <box>
+              <size>5.28872 0.15 5</size>
+            </box>
+          </geometry>
+          <pose>0 0 2.5 0 -0 0</pose>
+        </collision>
+        <visual name='Wall_25_Visual'>
+          <pose>0 0 2.5 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>5.28872 0.15 5</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/CeilingTiled</name>
+            </script>
+            <ambient>0.560784 0.34902 0.00784314 1</ambient>
+          </material>
+          <meta>
+            <layer>0</layer>
+          </meta>
+        </visual>
+        <pose>-37.4627 -5.41674 0 0 -0 0</pose>
+      </link>
+      <link name='Wall_30'>
+        <collision name='Wall_30_Collision'>
+          <geometry>
+            <box>
+              <size>0.16 0.15 2.5</size>
+            </box>
+          </geometry>
+          <pose>0 0 1.25 0 -0 0</pose>
+        </collision>
+        <visual name='Wall_30_Visual'>
+          <pose>0 0 1.25 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.16 0.15 2.5</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Grey</name>
+            </script>
+            <ambient>1 1 1 1</ambient>
+          </material>
+          <meta>
+            <layer>0</layer>
+          </meta>
+        </visual>
+        <pose>-30.5779 25.4018 0 0 -0 0</pose>
+      </link>
+      <link name='Wall_32'>
+        <collision name='Wall_32_Collision'>
+          <geometry>
+            <box>
+              <size>5 0.15 5</size>
+            </box>
+          </geometry>
+          <pose>0 0 2.5 0 -0 0</pose>
+        </collision>
+        <visual name='Wall_32_Visual'>
+          <pose>0 0 2.5 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>5 0.15 5</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/CeilingTiled</name>
+            </script>
+            <ambient>0.560784 0.34902 0.00784314 1</ambient>
+          </material>
+          <meta>
+            <layer>0</layer>
+          </meta>
+        </visual>
+        <pose>-37.4512 19.5113 0 0 -0 3.14159</pose>
+      </link>
+      <link name='Wall_35'>
+        <collision name='Wall_35_Collision'>
+          <geometry>
+            <box>
+              <size>2 0.15 5</size>
+            </box>
+          </geometry>
+          <pose>0 0 2.5 0 -0 0</pose>
+        </collision>
+        <visual name='Wall_35_Visual'>
+          <pose>0 0 2.5 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>2 0.15 5</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/CeilingTiled</name>
+            </script>
+            <ambient>0.560784 0.34902 0.00784314 1</ambient>
+          </material>
+          <meta>
+            <layer>0</layer>
+          </meta>
+        </visual>
+        <pose>-39.1362 -10.5227 0 0 -0 0</pose>
+      </link>
+      <link name='Wall_4'>
+        <collision name='Wall_4_Collision'>
+          <geometry>
+            <box>
+              <size>50 0.15 5</size>
+            </box>
+          </geometry>
+          <pose>0 0 2.5 0 -0 0</pose>
+        </collision>
+        <visual name='Wall_4_Visual'>
+          <pose>0 0 2.5 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>50 0.15 5</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/CeilingTiled</name>
+            </script>
+            <ambient>0.560784 0.34902 0.00784314 1</ambient>
+          </material>
+          <meta>
+            <layer>0</layer>
+          </meta>
+        </visual>
+        <pose>-40.0663 -0.463122 0 0 -0 -1.57126</pose>
+      </link>
+      <link name='Wall_6'>
+        <collision name='Wall_6_Collision'>
+          <geometry>
+            <box>
+              <size>80.081 0.15 5</size>
+            </box>
+          </geometry>
+          <pose>0 0 2.5 0 -0 0</pose>
+        </collision>
+        <visual name='Wall_6_Visual'>
+          <pose>0 0 2.5 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>80.081 0.15 5</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/CeilingTiled</name>
+            </script>
+            <ambient>0.560784 0.34902 0.00784314 1</ambient>
+          </material>
+          <meta>
+            <layer>0</layer>
+          </meta>
+        </visual>
+        <pose>-0.004681 -25.3949 0 0 -0 -0.00017</pose>
+      </link>
+      <link name='Wall_7'>
+        <collision name='Wall_7_Collision'>
+          <geometry>
+            <box>
+              <size>50 0.15 5</size>
+            </box>
+          </geometry>
+          <pose>0 0 2.5 0 -0 0</pose>
+        </collision>
+        <visual name='Wall_7_Visual'>
+          <pose>0 0 2.5 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>50 0.15 5</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/CeilingTiled</name>
+            </script>
+            <ambient>0.560784 0.34902 0.00784314 1</ambient>
+          </material>
+          <meta>
+            <layer>0</layer>
+          </meta>
+        </visual>
+        <pose>40.0078 -0.476735 0 0 -0 1.56891</pose>
+      </link>
+      <static>1</static>
+    </model>
+    <model name='aws_robomaker_warehouse_ShelfD_01'>
+      <link name='link'>
+        <inertial>
+          <mass>30</mass>
+          <inertia>
+            <ixx>907.144</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>104.95</iyy>
+            <iyz>0</iyz>
+            <izz>824.248</izz>
+          </inertia>
+        </inertial>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>model://aws_robomaker_warehouse_ShelfD_01/meshes/aws_robomaker_warehouse_ShelfD_01_collision.DAE</uri>
+              <scale>1 1 1</scale>
+            </mesh>
+          </geometry>
+          <surface>
+            <friction>
+              <ode>
+                <mu>0.2</mu>
+                <mu2>0.2</mu2>
+                <fdir1>0 0 0</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>model://aws_robomaker_warehouse_ShelfD_01/meshes/aws_robomaker_warehouse_ShelfD_01_visual.DAE</uri>
+            </mesh>
+          </geometry>
+          <meta>
+            <layer>1</layer>
+          </meta>
+        </visual>
+      </link>
+      <static>1</static>
+      <pose>-5.6631 -0.820238 0 0 -0 0</pose>
+    </model>
+    <model name='aws_robomaker_warehouse_ShelfF_01'>
+      <link name='link'>
+        <inertial>
+          <mass>30</mass>
+          <inertia>
+            <ixx>907.144</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>104.95</iyy>
+            <iyz>0</iyz>
+            <izz>824.248</izz>
+          </inertia>
+        </inertial>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>model://aws_robomaker_warehouse_ShelfF_01/meshes/aws_robomaker_warehouse_ShelfF_01_collision.DAE</uri>
+              <scale>1 1 1</scale>
+            </mesh>
+          </geometry>
+          <surface>
+            <friction>
+              <ode>
+                <mu>0.2</mu>
+                <mu2>0.2</mu2>
+                <fdir1>0 0 0</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>model://aws_robomaker_warehouse_ShelfF_01/meshes/aws_robomaker_warehouse_ShelfF_01_visual.DAE</uri>
+            </mesh>
+          </geometry>
+          <meta>
+            <layer>1</layer>
+          </meta>
+        </visual>
+      </link>
+      <static>1</static>
+      <pose>-1.18473 0.446133 0 0 -0 0</pose>
+    </model>
+    <joint name='Wall_1_JOINT_7' type='fixed'>
+      <parent>WH1::Wall_1</parent>
+      <child>WH1::Wall_4</child>
+      <pose>0 0 0 0 -0 0</pose>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <joint name='Wall_1_JOINT_9' type='fixed'>
+      <parent>WH1::Wall_1</parent>
+      <child>aws_robomaker_warehouse_ShelfF_01::link</child>
+      <pose>0 0 0 0 -0 0</pose>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <joint name='Wall_4_JOINT_4' type='fixed'>
+      <parent>WH1::Wall_4</parent>
+      <child>WH1::Wall_6</child>
+      <pose>0 0 0 0 -0 0</pose>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <joint name='Wall_6_JOINT_0' type='fixed'>
+      <parent>WH1::Wall_6</parent>
+      <child>aws_robomaker_warehouse_ShelfF_01::link</child>
+      <pose>0 0 0 0 -0 0</pose>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <joint name='Wall_6_JOINT_5' type='fixed'>
+      <parent>WH1::Wall_6</parent>
+      <child>WH1::Wall_7</child>
+      <pose>0 0 0 0 -0 0</pose>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <joint name='Wall_6_JOINT_8' type='fixed'>
+      <parent>WH1::Wall_6</parent>
+      <child>aws_robomaker_warehouse_ShelfF_01::link</child>
+      <pose>0 0 0 0 -0 0</pose>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <joint name='Wall_7_JOINT_6' type='fixed'>
+      <parent>WH1::Wall_7</parent>
+      <child>WH1::Wall_1</child>
+      <pose>0 0 0 0 -0 0</pose>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <static>0</static>
+    <allow_auto_disable>1</allow_auto_disable>
+  </model>
+</sdf>

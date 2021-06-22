@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+
+<sdf version="1.6">
+  <world name="default">
+
+    <include>
+      <uri>model://sun</uri>
+    </include>
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+    <include>
+      <pose>0 0 0.33 0 0 0</pose>
+      <uri>model://dolly</uri>
+    </include>
+
+    <!-- Left -->
+    <include>
+      <name>wall001</name>
+      <pose>-4 1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>wall002</name>
+      <pose>-3 1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>wall003</name>
+      <pose>-2 1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>wall004</name>
+      <pose>-1 1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>wall005</name>
+      <pose>0 1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>wall006</name>
+      <pose>1 1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>wall007</name>
+      <pose>2 1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>wall008</name>
+      <pose>3 1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>wall009</name>
+      <pose>4 1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+
+    <!-- Right - Left of box -->
+    <include>
+      <name>rwall001</name>
+      <pose>-2 -1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>rwall002</name>
+      <pose>-1 -1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>rwall003</name>
+      <pose>0 -1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>rwall004</name>
+      <pose>1 -1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>rwall005</name>
+      <pose>2 -1.5 0 0 0 0</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <!-- Top of box -->
+    <include>
+      <name>rfwall001</name>
+      <pose>2 -1.5 0 0 0 -1.57</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>rfwall002</name>
+      <pose>2 -2.5 0 0 0 -1.57</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>rfwall003</name>
+      <pose>2 -3.5 0 0 0 -1.57</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>rfwall004</name>
+      <pose>2 -4.5 0 0 0 -1.57</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>rfwall005</name>
+      <pose>2 -5.5 0 0 0 -1.57</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <!-- Left of box -->
+    <include>
+      <name>lwall001</name>
+      <pose>-2 -5.5 0 0 0 3.14</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>lwall002</name>
+      <pose>-1 -5.5 0 0 0 3.14</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>lwall003</name>
+      <pose>0 -5.5 0 0 0 3.14</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>lwall004</name>
+      <pose>1 -5.5 0 0 0 3.14</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>lwall005</name>
+      <pose>2 -5.5 0 0 0 3.14</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <!-- Bottom of box -->
+    <include>
+      <name>rbwall001</name>
+      <pose>-2 -1.5 0 0 0 1.57</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>rbwall002</name>
+      <pose>-2 -2.5 0 0 0 1.57</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>rbwall003</name>
+      <pose>-2 -3.5 0 0 0 1.57</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>rbwall004</name>
+      <pose>-2 -4.5 0 0 0 1.57</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+    <include>
+      <name>rbwall005</name>
+      <pose>-2 -5.5 0 0 0 1.57</pose>
+      <uri>model://nist_maze_wall_120</uri>
+    </include>
+
+  </world>
+</sdf>

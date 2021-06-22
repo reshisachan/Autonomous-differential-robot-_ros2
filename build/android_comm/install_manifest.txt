@@ -1,0 +1,15 @@
+/home/supro/supro_ws/install/android_comm/share/ament_index/resource_index/package_run_dependencies/android_comm
+/home/supro/supro_ws/install/android_comm/share/ament_index/resource_index/parent_prefix_path/android_comm
+/home/supro/supro_ws/install/android_comm/share/android_comm/environment/ament_prefix_path.sh
+/home/supro/supro_ws/install/android_comm/share/android_comm/environment/ament_prefix_path.dsv
+/home/supro/supro_ws/install/android_comm/share/android_comm/environment/path.sh
+/home/supro/supro_ws/install/android_comm/share/android_comm/environment/path.dsv
+/home/supro/supro_ws/install/android_comm/share/android_comm/local_setup.bash
+/home/supro/supro_ws/install/android_comm/share/android_comm/local_setup.sh
+/home/supro/supro_ws/install/android_comm/share/android_comm/local_setup.zsh
+/home/supro/supro_ws/install/android_comm/share/android_comm/local_setup.dsv
+/home/supro/supro_ws/install/android_comm/share/android_comm/package.dsv
+/home/supro/supro_ws/install/android_comm/share/ament_index/resource_index/packages/android_comm
+/home/supro/supro_ws/install/android_comm/share/android_comm/cmake/android_commConfig.cmake
+/home/supro/supro_ws/install/android_comm/share/android_comm/cmake/android_commConfig-version.cmake
+/home/supro/supro_ws/install/android_comm/share/android_comm/package.xml

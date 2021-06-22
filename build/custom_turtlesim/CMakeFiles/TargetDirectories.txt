@@ -1,0 +1,12 @@
+/home/supro/supro_ws/build/custom_turtlesim/CMakeFiles/install/strip.dir
+/home/supro/supro_ws/build/custom_turtlesim/CMakeFiles/install/local.dir
+/home/supro/supro_ws/build/custom_turtlesim/CMakeFiles/install.dir
+/home/supro/supro_ws/build/custom_turtlesim/CMakeFiles/list_install_components.dir
+/home/supro/supro_ws/build/custom_turtlesim/CMakeFiles/rebuild_cache.dir
+/home/supro/supro_ws/build/custom_turtlesim/CMakeFiles/initial_pose.dir
+/home/supro/supro_ws/build/custom_turtlesim/CMakeFiles/goal_publish.dir
+/home/supro/supro_ws/build/custom_turtlesim/CMakeFiles/subscribe_laser.dir
+/home/supro/supro_ws/build/custom_turtlesim/CMakeFiles/edit_cache.dir
+/home/supro/supro_ws/build/custom_turtlesim/CMakeFiles/test.dir
+/home/supro/supro_ws/build/custom_turtlesim/CMakeFiles/custom_turtlesim_uninstall.dir
+/home/supro/supro_ws/build/custom_turtlesim/CMakeFiles/uninstall.dir

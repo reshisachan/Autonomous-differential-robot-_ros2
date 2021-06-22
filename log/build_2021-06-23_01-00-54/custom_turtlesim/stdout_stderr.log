@@ -1,0 +1,41 @@
+[ 33%] Built target initial_pose
+[ 66%] Built target goal_publish
+[100%] Built target subscribe_laser
+-- Install configuration: ""
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//worlds
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//worlds/dolly_empty.world
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//worlds/dolly_walls.world
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//worlds/map.world
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//launch
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//launch/arm.launch.py
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//launch/turtlesim.launch.py
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//launch/map_odom.launch.py
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//launch/dolly.launch.py
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//rviz
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//rviz/view.rviz
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/meshes
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/meshes/r200.dae
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/meshes/right_tire.dae
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/meshes/left_tire.dae
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/meshes/lds.dae
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/model.config
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim//models/model.sdf
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/lib/custom_turtlesim/subscribe_laser
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/lib/custom_turtlesim/goal_publish
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/lib/custom_turtlesim/initial_pose
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/ament_index/resource_index/package_run_dependencies/custom_turtlesim
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/ament_index/resource_index/parent_prefix_path/custom_turtlesim
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/environment/ament_prefix_path.sh
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/environment/path.sh
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/environment/path.dsv
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/local_setup.bash
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/local_setup.sh
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/local_setup.zsh
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/local_setup.dsv
+-- Installing: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/package.dsv
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/ament_index/resource_index/packages/custom_turtlesim
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/cmake/custom_turtlesimConfig.cmake
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/cmake/custom_turtlesimConfig-version.cmake
+-- Up-to-date: /home/supro/supro_ws/install/custom_turtlesim/share/custom_turtlesim/package.xml

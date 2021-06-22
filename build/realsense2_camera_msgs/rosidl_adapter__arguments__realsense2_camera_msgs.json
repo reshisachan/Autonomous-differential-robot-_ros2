@@ -1,0 +1,7 @@
+{
+  "package_name": "realsense2_camera_msgs",
+  "non_idl_tuples": [
+    "/home/supro/supro_ws/src/hardware_pkgs/camera_realsense/realsense2_camera_msgs:msg/IMUInfo.msg",
+    "/home/supro/supro_ws/src/hardware_pkgs/camera_realsense/realsense2_camera_msgs:msg/Extrinsics.msg"
+  ]
+}

@@ -1,0 +1,4 @@
+[console_scripts]
+Encoder = mapping_publisher.Encoder:main
+odom_publish = mapping_publisher.odom_publish:main
+

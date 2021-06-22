@@ -1,0 +1,10 @@
+/home/supro/supro_ws/build/apriltag_docking/CMakeFiles/install/strip.dir
+/home/supro/supro_ws/build/apriltag_docking/CMakeFiles/install/local.dir
+/home/supro/supro_ws/build/apriltag_docking/CMakeFiles/install.dir
+/home/supro/supro_ws/build/apriltag_docking/CMakeFiles/list_install_components.dir
+/home/supro/supro_ws/build/apriltag_docking/CMakeFiles/rebuild_cache.dir
+/home/supro/supro_ws/build/apriltag_docking/CMakeFiles/edit_cache.dir
+/home/supro/supro_ws/build/apriltag_docking/CMakeFiles/test.dir
+/home/supro/supro_ws/build/apriltag_docking/CMakeFiles/controller.dir
+/home/supro/supro_ws/build/apriltag_docking/CMakeFiles/apriltag_docking_uninstall.dir
+/home/supro/supro_ws/build/apriltag_docking/CMakeFiles/uninstall.dir

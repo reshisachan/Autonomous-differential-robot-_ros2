@@ -1,0 +1,26 @@
+[ 50%] Built target bluesea_node_2
+[100%] Built target bluesea_node_1
+-- Install configuration: ""
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/launch
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/launch/bluesea.py
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/launch/bluesea_launch.py
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/launch/LDS-50C-2.py
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/params
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/params/LDS-50C-2.yaml
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/lib/bluesea2/bluesea_node_1
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/lib/bluesea2/bluesea_node_2
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/ament_index/resource_index/package_run_dependencies/bluesea2
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/ament_index/resource_index/parent_prefix_path/bluesea2
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/environment/ament_prefix_path.sh
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/environment/path.sh
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/environment/path.dsv
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/local_setup.bash
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/local_setup.sh
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/local_setup.zsh
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/local_setup.dsv
+-- Installing: /home/supro/supro_ws/install/bluesea2/share/bluesea2/package.dsv
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/ament_index/resource_index/packages/bluesea2
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/cmake/bluesea2Config.cmake
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/cmake/bluesea2Config-version.cmake
+-- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/package.xml

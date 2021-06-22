@@ -1,0 +1,22 @@
+[0.744s] Invoking command in '/home/supro/supro_ws/src/hardware_pkgs/mapping_publisher': PYTHONPATH=/home/supro/supro_ws/install/mapping_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/mapping_publisher build --build-base /home/supro/supro_ws/build/mapping_publisher/build install --prefix /home/supro/supro_ws/install/mapping_publisher --record /home/supro/supro_ws/build/mapping_publisher/install.log --single-version-externally-managed
+[1.373s] running egg_info
+[1.373s] writing ../../../build/mapping_publisher/mapping_publisher.egg-info/PKG-INFO
+[1.374s] writing dependency_links to ../../../build/mapping_publisher/mapping_publisher.egg-info/dependency_links.txt
+[1.374s] writing entry points to ../../../build/mapping_publisher/mapping_publisher.egg-info/entry_points.txt
+[1.374s] writing requirements to ../../../build/mapping_publisher/mapping_publisher.egg-info/requires.txt
+[1.374s] writing top-level names to ../../../build/mapping_publisher/mapping_publisher.egg-info/top_level.txt
+[1.444s] reading manifest file '../../../build/mapping_publisher/mapping_publisher.egg-info/SOURCES.txt'
+[1.446s] writing manifest file '../../../build/mapping_publisher/mapping_publisher.egg-info/SOURCES.txt'
+[1.446s] running build
+[1.446s] running build_py
+[1.447s] running install
+[1.448s] running install_lib
+[1.450s] running install_data
+[1.451s] running install_egg_info
+[1.454s] removing '/home/supro/supro_ws/install/mapping_publisher/lib/python3.8/site-packages/mapping_publisher-0.0.0-py3.8.egg-info' (and everything under it)
+[1.454s] Copying ../../../build/mapping_publisher/mapping_publisher.egg-info to /home/supro/supro_ws/install/mapping_publisher/lib/python3.8/site-packages/mapping_publisher-0.0.0-py3.8.egg-info
+[1.455s] running install_scripts
+[1.486s] Installing Encoder script to /home/supro/supro_ws/install/mapping_publisher/lib/mapping_publisher
+[1.486s] Installing odom_publish script to /home/supro/supro_ws/install/mapping_publisher/lib/mapping_publisher
+[1.487s] writing list of installed files to '/home/supro/supro_ws/build/mapping_publisher/install.log'
+[1.806s] Invoked command in '/home/supro/supro_ws/src/hardware_pkgs/mapping_publisher' returned '0': PYTHONPATH=/home/supro/supro_ws/install/mapping_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/mapping_publisher build --build-base /home/supro/supro_ws/build/mapping_publisher/build install --prefix /home/supro/supro_ws/install/mapping_publisher --record /home/supro/supro_ws/build/mapping_publisher/install.log --single-version-externally-managed

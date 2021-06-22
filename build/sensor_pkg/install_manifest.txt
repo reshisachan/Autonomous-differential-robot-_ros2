@@ -1,0 +1,15 @@
+/home/supro/supro_ws/install/sensor_pkg/share/ament_index/resource_index/package_run_dependencies/sensor_pkg
+/home/supro/supro_ws/install/sensor_pkg/share/ament_index/resource_index/parent_prefix_path/sensor_pkg
+/home/supro/supro_ws/install/sensor_pkg/share/sensor_pkg/environment/ament_prefix_path.sh
+/home/supro/supro_ws/install/sensor_pkg/share/sensor_pkg/environment/ament_prefix_path.dsv
+/home/supro/supro_ws/install/sensor_pkg/share/sensor_pkg/environment/path.sh
+/home/supro/supro_ws/install/sensor_pkg/share/sensor_pkg/environment/path.dsv
+/home/supro/supro_ws/install/sensor_pkg/share/sensor_pkg/local_setup.bash
+/home/supro/supro_ws/install/sensor_pkg/share/sensor_pkg/local_setup.sh
+/home/supro/supro_ws/install/sensor_pkg/share/sensor_pkg/local_setup.zsh
+/home/supro/supro_ws/install/sensor_pkg/share/sensor_pkg/local_setup.dsv
+/home/supro/supro_ws/install/sensor_pkg/share/sensor_pkg/package.dsv
+/home/supro/supro_ws/install/sensor_pkg/share/ament_index/resource_index/packages/sensor_pkg
+/home/supro/supro_ws/install/sensor_pkg/share/sensor_pkg/cmake/sensor_pkgConfig.cmake
+/home/supro/supro_ws/install/sensor_pkg/share/sensor_pkg/cmake/sensor_pkgConfig-version.cmake
+/home/supro/supro_ws/install/sensor_pkg/share/sensor_pkg/package.xml

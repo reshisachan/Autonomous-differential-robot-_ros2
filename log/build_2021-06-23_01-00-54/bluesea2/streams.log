@@ -1,0 +1,30 @@
+[0.108s] Invoking command in '/home/supro/supro_ws/build/bluesea2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/supro/supro_ws/install/turtlebot3_teleop:/home/supro/supro_ws/install/nav2_gazebo_spawner:/home/supro/supro_ws/install/mapping_publisher /usr/bin/cmake --build /home/supro/supro_ws/build/bluesea2 -- -j8 -l8
+[0.399s] [ 50%] Built target bluesea_node_2
+[0.418s] [100%] Built target bluesea_node_1
+[0.759s] Invoked command in '/home/supro/supro_ws/build/bluesea2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/supro/supro_ws/install/turtlebot3_teleop:/home/supro/supro_ws/install/nav2_gazebo_spawner:/home/supro/supro_ws/install/mapping_publisher /usr/bin/cmake --build /home/supro/supro_ws/build/bluesea2 -- -j8 -l8
+[1.048s] Invoking command in '/home/supro/supro_ws/build/bluesea2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/supro/supro_ws/install/turtlebot3_teleop:/home/supro/supro_ws/install/nav2_gazebo_spawner:/home/supro/supro_ws/install/mapping_publisher /usr/bin/cmake --install /home/supro/supro_ws/build/bluesea2
+[1.083s] -- Install configuration: ""
+[1.084s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/launch
+[1.084s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/launch/bluesea.py
+[1.084s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/launch/bluesea_launch.py
+[1.085s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/launch/LDS-50C-2.py
+[1.085s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/params
+[1.085s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/params/LDS-50C-2.yaml
+[1.085s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/lib/bluesea2/bluesea_node_1
+[1.086s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/lib/bluesea2/bluesea_node_2
+[1.086s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/ament_index/resource_index/package_run_dependencies/bluesea2
+[1.086s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/ament_index/resource_index/parent_prefix_path/bluesea2
+[1.087s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/environment/ament_prefix_path.sh
+[1.087s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/environment/ament_prefix_path.dsv
+[1.087s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/environment/path.sh
+[1.087s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/environment/path.dsv
+[1.088s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/local_setup.bash
+[1.088s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/local_setup.sh
+[1.088s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/local_setup.zsh
+[1.089s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/local_setup.dsv
+[1.089s] -- Installing: /home/supro/supro_ws/install/bluesea2/share/bluesea2/package.dsv
+[1.089s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/ament_index/resource_index/packages/bluesea2
+[1.089s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/cmake/bluesea2Config.cmake
+[1.089s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/cmake/bluesea2Config-version.cmake
+[1.090s] -- Up-to-date: /home/supro/supro_ws/install/bluesea2/share/bluesea2/package.xml
+[1.145s] Invoked command in '/home/supro/supro_ws/build/bluesea2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/supro/supro_ws/install/turtlebot3_teleop:/home/supro/supro_ws/install/nav2_gazebo_spawner:/home/supro/supro_ws/install/mapping_publisher /usr/bin/cmake --install /home/supro/supro_ws/build/bluesea2
